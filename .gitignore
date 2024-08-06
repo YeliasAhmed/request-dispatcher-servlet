@@ -13,7 +13,7 @@ out/
 .sts4-cache
 .idea
 .smarttomcat
-request-dispatcher-servlet.iml
+java-servlet.iml
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
